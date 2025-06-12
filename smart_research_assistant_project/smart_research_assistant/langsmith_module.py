@@ -1,5 +1,7 @@
 # smart_research_assistant/langsmith_module.py
 
+
+
 import os
 import uuid
 from typing import Dict, Any, List, Optional
@@ -7,6 +9,7 @@ from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_core.tracers import LangChainTracer
 from langchain_core.callbacks import CallbackManager
+from pydantic import BaseModel
 
 # Import our modules
 from smart_research_assistant.langchain_module import ResearchAssistantLangChain
