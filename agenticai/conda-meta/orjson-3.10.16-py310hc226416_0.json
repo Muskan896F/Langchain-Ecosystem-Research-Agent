@@ -1,0 +1,141 @@
+{
+  "build": "py310hc226416_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "python_abi 3.10.* *_cp310",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\HP\\anaconda3\\pkgs\\orjson-3.10.16-py310hc226416_0",
+  "files": [
+    "Lib/site-packages/orjson-3.10.16.dist-info/INSTALLER",
+    "Lib/site-packages/orjson-3.10.16.dist-info/METADATA",
+    "Lib/site-packages/orjson-3.10.16.dist-info/RECORD",
+    "Lib/site-packages/orjson-3.10.16.dist-info/REQUESTED",
+    "Lib/site-packages/orjson-3.10.16.dist-info/WHEEL",
+    "Lib/site-packages/orjson-3.10.16.dist-info/direct_url.json",
+    "Lib/site-packages/orjson-3.10.16.dist-info/licenses/LICENSE-APACHE",
+    "Lib/site-packages/orjson-3.10.16.dist-info/licenses/LICENSE-MIT",
+    "Lib/site-packages/orjson/__init__.py",
+    "Lib/site-packages/orjson/__init__.pyi",
+    "Lib/site-packages/orjson/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/orjson/orjson.cp310-win_amd64.pyd",
+    "Lib/site-packages/orjson/py.typed"
+  ],
+  "fn": "orjson-3.10.16-py310hc226416_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\HP\\anaconda3\\pkgs\\orjson-3.10.16-py310hc226416_0",
+    "type": 1
+  },
+  "md5": "01a4824bdf65a38832be50165aa21771",
+  "name": "orjson",
+  "package_tarball_full_path": "C:\\Users\\HP\\anaconda3\\pkgs\\orjson-3.10.16-py310hc226416_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/orjson-3.10.16.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/orjson-3.10.16.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "f289dfff71f7b2fbe9ce0d18262053207aabfc2fb11eb1a13fcf306a69db7b43",
+        "sha256_in_prefix": "f289dfff71f7b2fbe9ce0d18262053207aabfc2fb11eb1a13fcf306a69db7b43",
+        "size_in_bytes": 41809
+      },
+      {
+        "_path": "Lib/site-packages/orjson-3.10.16.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ba675dc34b6c08ad3b7bb84aea8a8daa09c677c27f80f526da0479fd6e0416c4",
+        "sha256_in_prefix": "ba675dc34b6c08ad3b7bb84aea8a8daa09c677c27f80f526da0479fd6e0416c4",
+        "size_in_bytes": 1058
+      },
+      {
+        "_path": "Lib/site-packages/orjson-3.10.16.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/orjson-3.10.16.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "efb0ea92fc41e07a998ad0512bf338f4d452db4ec929bd0ca2d3048e7c44590f",
+        "sha256_in_prefix": "efb0ea92fc41e07a998ad0512bf338f4d452db4ec929bd0ca2d3048e7c44590f",
+        "size_in_bytes": 96
+      },
+      {
+        "_path": "Lib/site-packages/orjson-3.10.16.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e406397e79723577386c4d11464e053d70e3760fd0b2e753e0449817256e810a",
+        "sha256_in_prefix": "e406397e79723577386c4d11464e053d70e3760fd0b2e753e0449817256e810a",
+        "size_in_bytes": 67
+      },
+      {
+        "_path": "Lib/site-packages/orjson-3.10.16.dist-info/licenses/LICENSE-APACHE",
+        "path_type": "hardlink",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "sha256_in_prefix": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "size_in_bytes": 10847
+      },
+      {
+        "_path": "Lib/site-packages/orjson-3.10.16.dist-info/licenses/LICENSE-MIT",
+        "path_type": "hardlink",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "sha256_in_prefix": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "size_in_bytes": 1023
+      },
+      {
+        "_path": "Lib/site-packages/orjson/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d5276b282a14fce1c35d7639e0ba97f50fb5d8c8e231689cdebe760a9fc26170",
+        "sha256_in_prefix": "d5276b282a14fce1c35d7639e0ba97f50fb5d8c8e231689cdebe760a9fc26170",
+        "size_in_bytes": 589
+      },
+      {
+        "_path": "Lib/site-packages/orjson/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "cf5326d458ee2d6ae7c98d36f20b2adca63f6e14aeded653ef9174259a8ddbea",
+        "sha256_in_prefix": "cf5326d458ee2d6ae7c98d36f20b2adca63f6e14aeded653ef9174259a8ddbea",
+        "size_in_bytes": 761
+      },
+      {
+        "_path": "Lib/site-packages/orjson/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e6d5d1b5c3a70bd94fb33e440fe26e67eb9d1d2e0481f6f2d866d960d709417a",
+        "sha256_in_prefix": "e6d5d1b5c3a70bd94fb33e440fe26e67eb9d1d2e0481f6f2d866d960d709417a",
+        "size_in_bytes": 547
+      },
+      {
+        "_path": "Lib/site-packages/orjson/orjson.cp310-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "004c44ab29fdc207ccae222d89b091b38d26abd05ed9467eda9388f370d13802",
+        "sha256_in_prefix": "004c44ab29fdc207ccae222d89b091b38d26abd05ed9467eda9388f370d13802",
+        "size_in_bytes": 361472
+      },
+      {
+        "_path": "Lib/site-packages/orjson/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "437f1d1369b9e9509fd696a1f7db0d6edb24a14856466e7a94ca5b967bc32bc7",
+  "size": 185371,
+  "subdir": "win-64",
+  "timestamp": 1742910701000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/orjson-3.10.16-py310hc226416_0.conda",
+  "version": "3.10.16"
+}
